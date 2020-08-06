@@ -19,3 +19,7 @@ Display the current game status in Discord Rich Presence.
 Dependencies: 
 * https://github.com/Microsoft/cpprestsdk
 * https://github.com/discordapp/discord-rpc
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/jleblanc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" ></a>
